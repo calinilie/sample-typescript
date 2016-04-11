@@ -1,0 +1,24 @@
+{
+  "name": "typescript-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc --project test && mocha",
+    "build": "webpack -d",
+    "type-it": "typings install"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.7.6",
+    "babel-loader": "^6.2.4",
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5",
+    "ts-loader": "^0.8.2",
+    "tsd": "^0.6.5",
+    "typescript": "^1.8.9",
+    "typings": "^0.7.12",
+    "webpack": "^1.12.15"
+  }
+}

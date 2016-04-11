@@ -1,0 +1,10 @@
+{
+  "name": "typescript-test",
+  "version": false,
+  "ambientDependencies": {
+    "es6-shim": "github:DefinitelyTyped/DefinitelyTyped/es6-shim/es6-shim.d.ts#237339b0238845b027431280c72dc663ca534132",
+    "assertion-error": "github:DefinitelyTyped/DefinitelyTyped/assertion-error/assertion-error.d.ts#237339b0238845b027431280c72dc663ca534132",
+    "chai": "github:DefinitelyTyped/DefinitelyTyped/chai/chai.d.ts#237339b0238845b027431280c72dc663ca534132",
+    "mocha": "github:DefinitelyTyped/DefinitelyTyped/mocha/mocha.d.ts#237339b0238845b027431280c72dc663ca534132"
+  }
+}

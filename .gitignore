@@ -1,0 +1,6 @@
+node_modules
+dist
+typings
+*.js
+*.js.map
+!webpack.config.js

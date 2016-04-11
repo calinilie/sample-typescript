@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "sourceMap": true,
+        "rootDir": "./test/"
+    },
+    "exclude": [
+        "typings/main.d.ts",
+        "typings/main",
+        "node_modules"
+    ]
+}
